@@ -27,3 +27,10 @@
 -    `/server/db.sqlite3`: База данных SQLite
 
 -    `/server/requirements.txt`: Зависимости Python
+
+
+## Версии 
+- Django==5.2.8
+- djangorestframework==3.15.1
+- django-cors-headers==4.4.0
+- Pillow==10.3.0
